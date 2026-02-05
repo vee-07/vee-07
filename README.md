@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Vaibhav Adikane 👋
 
-<!--
-**vee-07/vee-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | Data Science & AI/ML  
+💼 Technical Assistant | Academic & Bootcamp Support  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Python (Pandas, NumPy, scikit-learn)
+- Machine Learning & Data Analysis
+- Google Earth Engine (GEE)
+- Linux & HPC Basics
+- MySQL, Git, GitHub
+
+---
+
+### 📌 Current Focus
+- GeoData Processing using Google Earth Engine
+- High Performance Computing (HPC)
+- Institutional technical documentation & support
+
+---
+
+### 📂 Featured Work
+- Machine Learning projects (Regression, Prediction)
+- Academic & Bootcamp technical projects
+- Python automation & data analysis tasks
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/vee0107
+- ORCID: https://orcid.org/0009-0008-2655-880X
